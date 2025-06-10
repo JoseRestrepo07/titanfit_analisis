@@ -1,0 +1,11 @@
+{
+  "admin": [
+    { "id": 1, "nombre": "Yoga", "instructor": "Ana", "horario": "Lunes 7am" },
+    { "id": 2, "nombre": "Crossfit", "instructor": "Luis", "horario": "Martes 6pm" }
+  ],
+  "cliente": [
+    { "id": 1, "nombre": "Yoga", "instructor": "Ana", "horario": "Lunes 8:00 AM" },
+    { "id": 2, "nombre": "Spinning", "instructor": "Carlos", "horario": "Martes 6:00 PM" },
+    { "id": 3, "nombre": "Pilates", "instructor": "María", "horario": "Miércoles 7:00 AM" }
+  ]
+}
