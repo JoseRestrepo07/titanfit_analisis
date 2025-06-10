@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">python -m venv venv<br><br>2. Activar entorno virtual<br>	•	En Windows:<br>venv\Scripts\activate<br><br>•	En macOS/Linux:<br>source venv/bin/activate<br><br>3. Instalar dependencias<br>pip install pandas matplotlib seaborn<br><br>4. Ejecutar el análisis<br>python main.py<br><br>📌 Notas<br>	•	El archivo clases.json contiene los datos que normalmente vendrían del backend o de los archivos React.<br>	•	Las gráficas se mostrarán automáticamente al ejecutar main.py.<br><br>👨‍💻 Autor<br><br>Jose Daniel Restrepo Rivera y el equipo de trabajo: Daniel Bernal, Danny Muza y Brandon Yesid<br>Proyecto: TitanFit - Simulación de Análisis de Clases<br>Junio 2025</p>
+<p align="left">python -m venv venv<br><br>2. Activar entorno virtual<br>	•	En Windows:<br>venv\Scripts\activate<br><br>•	En macOS/Linux:<br>source venv/bin/activate<br><br>3. Instalar dependencias<br>pip install pandas matplotlib seaborn<br><br>4. Ejecutar el análisis<br>python main.py<br><br>📌 Notas<br>	•	El archivo clases.json contiene los datos que normalmente vendrían del backend o de los archivos React.<br>	•	Las gráficas se mostrarán automáticamente al ejecutar main.py.<br><br>👨‍💻 Autor<br><br>Jose Daniel Restrepo Rivera y el equipo de trabajo: Daniel Bernal, Danny Muñoz y Brandon Yezid<br>Proyecto: TitanFit - Simulación de Análisis de Clases<br>Junio 2025</p>
 
 ###
 
